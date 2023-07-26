@@ -1,12 +1,12 @@
 ### Directories ###
-ncmpcpp_directory = "/home/nanashi/.ncmpcpp"
-lyrics_directory  = "/home/nanashi/.ncmpcpp/lyrics"
-mpd_music_dir     = "/home/nanashi/Music/deemix/playlists"
+ncmpcpp_directory = "/home/mason/.ncmpcpp"
+lyrics_directory  = "/home/mason/.ncmpcpp/lyrics"
+mpd_music_dir     = "/home/mason/Music/deemix/playlists"
 mpd_host = "127.0.0.1"
 mpd_port = "6600"
 
 ### Behaviour ###
-#execute_on_song_change = "bash /home/nanashi/.ncmpcpp/mpdnotify"
+#execute_on_song_change = "bash /home/mason/.ncmpcpp/mpdnotify"
 message_delay_time = "1"
 playlist_disable_highlight_delay = "2"
 autocenter_mode = "yes"
